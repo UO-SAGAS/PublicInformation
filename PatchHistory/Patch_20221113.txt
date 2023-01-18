@@ -1,0 +1,22 @@
+* The house placement features a house preview now
+* The house placement can not be used to place houses. It can be used to check for valid placement spots.
+* New housing rules implemented
+* New house gump implemented
+* House deeds feature "switch facing" via context menu on supported house types
+* Custom roads tiles now block house placements
+* Bankchecks show the value in a dotted format (i.e. 1.000.000gp)
+* Treasure Maps: only show context menu options (like "dig out treasure", "decipher") when they can be used
+* Redone all vendor related gumps
+* Included vendor rental contracts + new gumps for it
+* New context menu entry "secure this" for containers inside houses
+* New "Lost and Found Officer" located in Moonvale Bank.
+* Vendors can now be dressed via Paperdoll. The standard vendors cloths can not be used as player cloths and will vanish when taken from the vendors.
+* The stuff (clothing given to vendors as well as items that were to sell) of decayed/deleted vendors can be claimed back via house signs or the Lost and Found Officer
+* General monster armor adjustments
+* Town center of Moonvale was redesigned
+* 1 new POI added to the overlands
+* 1 new island for housing has been added
+* 1 new island with a POI on it has been added
+* Crossroads at Westwend has been redesigned and extended with buildings
+* The game server was brought to dotnet7
+* Merged ModernUO upstream bigfixes into SAGAS code
